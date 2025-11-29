@@ -27,7 +27,7 @@ HZ Flix is a powerful, all-in-one entertainment application that brings movies, 
 - **Detailed Information** - Get comprehensive details, cast info, and ratings
 
 ### 🎌 Anime Streaming
-- **AniList Integration** - Browse trending, popular, and top-rated anime
+- **Anime Integration** - Browse trending, popular, and top-rated anime
 - **Full Episode Lists** - Access all episodes with organized viewing
 - **Dual Language Support** - Watch with original subtitles or dubbed versions
 - **Anime Details** - View characters, ratings, genres, and descriptions
@@ -212,3 +212,4 @@ The app includes an automatic update checker that notifies you when new versions
 [Download Latest Release](https://github.com/hzhefaz/hzflix/releases/latest) • [Report Bug](https://github.com/hzhefaz/hzflix/issues) • [Request Feature](https://github.com/hzhefaz/hzflix/issues)
 
 </div>
+
