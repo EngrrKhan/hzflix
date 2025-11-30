@@ -36,7 +36,7 @@ HZ Flix is a powerful, all-in-one entertainment application that brings movies, 
 - **Seamless Navigation** - Dedicated anime section with beautiful UI
 
 ### 🎵 Music Streaming
-- **YouTube Music Integration** - Stream millions of songs
+- **Music Integration** - Stream millions of songs
 - **High-Quality Audio** - Enjoy crystal clear sound
 - **Background Playback** - Listen to music while using other apps
 - **Download Music** - Save your favorite tracks for offline listening
@@ -212,4 +212,5 @@ The app includes an automatic update checker that notifies you when new versions
 [Download Latest Release](https://github.com/hzhefaz/hzflix/releases/latest) • [Report Bug](https://github.com/hzhefaz/hzflix/issues) • [Request Feature](https://github.com/hzhefaz/hzflix/issues)
 
 </div>
+
 
