@@ -4,9 +4,8 @@
 
 **Your Ultimate Movie, TV Show, Anime & Entertainment Streaming Experience**
 
-[![Version](https://img.shields.io/badge/version-6.5.0-red.svg)](https://github.com/hzhefaz/hzflix/releases)
-[![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg)](https://www.android.com/)
-[![License](https://img.shields.io/badge/license-Private-blue.svg)]()
+[![Total Downloads](https://img.shields.io/github/downloads/hzhefaz/hzflix/total?style=for-the-badge&logo=android&logoColor=white&label=Downloads&color=3DDC84)](https://github.com/hzhefaz/hzflix/releases)
+[![Latest Release](https://img.shields.io/github/v/release/hzhefaz/hzflix?style=for-the-badge&logo=github&logoColor=white&label=Latest%20Version&color=blue)](https://github.com/hzhefaz/hzflix/releases/latest)
 
 </div>
 
@@ -189,20 +188,6 @@ Having issues or suggestions? We'd love to hear from you!
 
 This application is for personal use only. Users are responsible for ensuring they have the right to stream or download any content. Always respect copyright laws and content ownership.
 
-## 🔄 Updates
-
-The app includes an automatic update checker that notifies you when new versions are available. Simply download and install the new APK to update.
-
-**Current Version**: 6.5.0  
-**Latest Updates**:
-- 🎌 **NEW:** Anime streaming with AniList integration
-- 📺 Full episode lists and dual language support (Sub/Dub)
-- 🎨 Enhanced UI with dedicated anime section
-- 🔧 Improved streaming quality and performance
-- 🐛 Bug fixes and stability improvements
-
----
-
 <div align="center">
 
 **Made with ❤️ for Entertainment Lovers**
@@ -212,6 +197,7 @@ The app includes an automatic update checker that notifies you when new versions
 [Download Latest Release](https://github.com/hzhefaz/hzflix/releases/latest) • [Report Bug](https://github.com/hzhefaz/hzflix/issues) • [Request Feature](https://github.com/hzhefaz/hzflix/issues)
 
 </div>
+
 
 
 
