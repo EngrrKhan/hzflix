@@ -1,5 +1,6 @@
 <div align="center">
 
+<a href="#" target="_blank"><img src=https://github.com/user-attachments/assets/359ba774-06fb-4a0c-bea0-e5dde8bbcb1a/></a>
 # 🎬 HZ Flix
 
 **Your Ultimate Movie, TV Show, Anime & Entertainment Streaming Experience**
@@ -9,7 +10,8 @@
 
 </div>
 
----
+
+
 
 ## 📱 About HZ Flix
 
@@ -197,6 +199,7 @@ This application is for personal use only. Users are responsible for ensuring th
 [Download Latest Release](https://github.com/hzhefaz/hzflix/releases/latest) • [Report Bug](https://github.com/hzhefaz/hzflix/issues) • [Request Feature](https://github.com/hzhefaz/hzflix/issues)
 
 </div>
+
 
 
 
