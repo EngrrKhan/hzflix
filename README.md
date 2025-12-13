@@ -7,6 +7,9 @@
 
 [![Total Downloads](https://img.shields.io/github/downloads/hzhefaz/hzflix/total?style=for-the-badge&logo=android&logoColor=white&label=Downloads&color=3DDC84)](https://github.com/hzhefaz/hzflix/releases)
 [![Latest Release](https://img.shields.io/github/v/release/hzhefaz/hzflix?style=for-the-badge&logo=github&logoColor=white&label=Latest%20Version&color=blue)](https://github.com/hzhefaz/hzflix/releases/latest)
+<a href="https://github.com/hzhefaz/hzflix/releases/latest/download/app-release.apk">
+  <img src="https://img.shields.io/badge/%20Download%20Now-Latest%20Version-3DDC84?style=for-the-badge" />
+</a>
 
 </div>
 
@@ -67,6 +70,10 @@ HZ Flix is a powerful, all-in-one entertainment application that brings movies, 
 - **Voice Search** - Search content using your voice
 - **Auto-Update System** - Get notified about new app versions
 
+### 📷 App Screenshot
+<img width="2056" height="1080" alt="Screenshot" src="https://github.com/user-attachments/assets/5f8d52a3-7109-4c74-8329-f00224f33515" />
+
+
 ## 📥 Installation
 
 ### Requirements
@@ -78,6 +85,12 @@ HZ Flix is a powerful, all-in-one entertainment application that brings movies, 
 ### Download & Install
 
 1. **Download the APK**
+
+   <a href="https://github.com/hzhefaz/hzflix/releases/latest/download/app-release.apk">
+   <img src="https://img.shields.io/badge/%20Download%20Now-3DDC84?style=for-the-badge" />
+   </a>
+
+Or
    - Go to the [Releases](https://github.com/hzhefaz/hzflix/releases) page
    - Download the latest version APK file
 
@@ -198,7 +211,12 @@ This application is for personal use only. Users are responsible for ensuring th
 
 [Download Latest Release](https://github.com/hzhefaz/hzflix/releases/latest) • [Report Bug](https://github.com/hzhefaz/hzflix/issues) • [Request Feature](https://github.com/hzhefaz/hzflix/issues)
 
+<a href="https://github.com/hzhefaz/hzflix/releases/latest/download/app-release.apk">
+  <img src="https://img.shields.io/badge/%20Download%20Now-Latest%20Version-3DDC84?style=for-the-badge" />
+</a>
+
 </div>
+
 
 
 
